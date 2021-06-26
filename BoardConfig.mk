@@ -157,8 +157,8 @@ SHRP_FLASH := 1
 SHRP_NOTCH := true
 # SHRP Dark mode, use this flag to have dark theme set by default
 SHRP_DARK := true
-# Do not include the SHRP theming system
-SHRP_LITE := true
+SHRP_EXPRESS := true
+SHRP_EXPRESS_USE_DATA := true
 # Addon - Clear Fingerprint (remove fingerprint lock from system)
 SHRP_SKIP_DEFAULT_ADDON_3 := true
 SHRP_OFFICIAL := true
